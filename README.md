@@ -1,2 +1,2 @@
 # GymApp
-Private Repository for GymApp frontend
+GymApp frontend
